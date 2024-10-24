@@ -1,4 +1,8 @@
-HEAD
+This is something added aftwerwards to conflict with my teamate as he is writing in a different file
+This is interesting because i do not think it wil cause a merge conflct athis time.
+
+
+
 This is the changes made by alex the great:
 - Hahahahahahaha feel my wrath you mortals
 
